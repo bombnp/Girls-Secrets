@@ -1,2 +1,2 @@
 # Girls-Secrets
-Website for Privacy Policy
+Privacy Policy for Girls-Secrets
